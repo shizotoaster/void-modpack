@@ -3,6 +3,6 @@ filename = "magnesium_extras-mc1.16.5_v1.3.5-Multi.jar"
 side = "client"
 
 [download]
-url = "https://github.com/shizotoaster/void-modpack/blob/sodium/magnesium-extras/magnesium_extras-mc1.16.5_v1.3.5-Multi.jar"
+url = "https://github.com/ForgeModi18n/MgRbExtras-i18n/releases/download/mc1.16-v1.3.5-Multi/magnesium_extras-mc1.16.5_v1.3.5-Multi.jar"
 hash-format = "sha256"
-hash = "7a49156cc35eac51fbab3d67cd3815ac636acfd09eac1ec5e513ee0beabe0cae"
+hash = "9E04044296137373D26A1E76777993B27B95FBAE08CAEBF4AA41943972A5F923"
