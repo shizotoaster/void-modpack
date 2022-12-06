@@ -5,4 +5,4 @@ side = "client"
 [download]
 url = "https://github.com/shizotoaster/void-modpack/blob/sodium/magnesium-extras/magnesium_extras-mc1.16.5_v1.3.5-Multi.jar"
 hash-format = "sha256"
-hash = "f53bf2dd17d501253a4c13a1f7c06117e05f41ac07d956097cc1757a73c39538"
+hash = "7a49156cc35eac51fbab3d67cd3815ac636acfd09eac1ec5e513ee0beabe0cae"
