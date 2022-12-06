@@ -91,11 +91,6 @@ hash = "38946835b45064be318480755d39eb77dc86b15fa0166179e0238dc6294b37bf"
 metafile = true
 
 [[files]]
-file = "mods/betternether-reforged.pw.toml"
-hash = "93db0d9a8538c2e302afa9f52c6efab4e3460cc33a398c101dffa2d0ebd3574a"
-metafile = true
-
-[[files]]
 file = "mods/blood-magic.pw.toml"
 hash = "12892f588a6b194af62f65a02d455ad6cb62715e11a7cb04f2b5291ca7b1c840"
 metafile = true
@@ -357,7 +352,7 @@ metafile = true
 
 [[files]]
 file = "mods/magnesium-extras.pw.toml"
-hash = "550221f69873307a3ce0ff5e18943d81a744cea4b32d0fdf08220f62f377d873"
+hash = "1c6145831d3330b7690ab44abf21ee30356f0133ec7b5be4f6f7a59340e0d4bd"
 metafile = true
 
 [[files]]
@@ -518,11 +513,6 @@ metafile = true
 [[files]]
 file = "mods/psionicolor.pw.toml"
 hash = "bb220c84f8ff2f87e60cb355acca9f24681b0d56b28d2a136ce19585ca80f407"
-metafile = true
-
-[[files]]
-file = "mods/quark.pw.toml"
-hash = "6d7e21afb6345e8f99bae1903c69141134fd10a773d5f431145a1f83cd1887ae"
 metafile = true
 
 [[files]]
