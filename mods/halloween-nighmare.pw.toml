@@ -1,0 +1,13 @@
+name = "Halloween Nightmare"
+filename = "Halloween_nightmare 1_16_5 damageFix.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "65de1c1e61f15d7471ce43a9d8e1d06ba34718ff"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3512673
+project-id = 541845

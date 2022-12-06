@@ -1,0 +1,13 @@
+name = "Re-chiseled Compatibilities"
+filename = "Rechiseled Compat-1.0.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "243ea269a22f426976cf3ab47e6a438107c6d005"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4031918
+project-id = 616191

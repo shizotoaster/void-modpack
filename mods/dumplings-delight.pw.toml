@@ -1,0 +1,13 @@
+name = "Dumplings Delight"
+filename = "DumplingsDelight-1.16.5-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "da016a9440ea4de81ea90e4c25be2f11616fbfff"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3911237
+project-id = 641226

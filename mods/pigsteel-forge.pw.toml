@@ -1,0 +1,13 @@
+name = "Pigsteel [Forge]"
+filename = "Pigsteel-forge-1.16.5-1.3.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cf02f905f472a195a6de443b6252385184c66eaf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3426520
+project-id = 472717

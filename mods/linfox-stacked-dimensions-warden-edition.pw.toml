@@ -1,0 +1,13 @@
+name = "Deeper in the Caves - Warden Mod (1.18 BETA!)"
+filename = "Deeper in The Caves Remake 1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a532a7b8ac76378cba3b3222a2c2024f43a6b2c7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3318155
+project-id = 446017

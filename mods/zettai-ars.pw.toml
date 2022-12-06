@@ -1,0 +1,13 @@
+name = "Zettai Ars"
+filename = "ZettaiArs-1.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "810fcefe86898aa336c18af3beff7b3935ddcff0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3862824
+project-id = 584728

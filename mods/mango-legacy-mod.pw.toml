@@ -1,0 +1,13 @@
+name = "Mango legacy mod"
+filename = "the_mango_legacy_1.16.5(new update!).jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e1c1f136b9ed9b77e9208ad5b08d542409816513"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3950895
+project-id = 462101

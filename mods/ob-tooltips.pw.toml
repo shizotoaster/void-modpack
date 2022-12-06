@@ -1,0 +1,13 @@
+name = "Obscuria's Tooltips"
+filename = "Obscuria's Tooltips 1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4aa038c431569a6105fa602f62c29ee0671d045a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3780598
+project-id = 620723

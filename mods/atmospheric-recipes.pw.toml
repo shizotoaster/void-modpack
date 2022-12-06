@@ -1,0 +1,13 @@
+name = "Atmospheric Recipes"
+filename = "Atmospheric Recipes 1.1 - Forge 1.16.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "457c7150933bce2d0709ad6dec78324779e35aae"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3509259
+project-id = 542617

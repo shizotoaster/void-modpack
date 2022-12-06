@@ -1,0 +1,13 @@
+name = "Obscuria's Essentials"
+filename = "Obscuria's Essentials 3.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "620d80314985e0dbc0207f030a8065f3d0408d91"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3781070
+project-id = 536348

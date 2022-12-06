@@ -1,0 +1,13 @@
+name = "Undefeatables"
+filename = "Undefeatables 1.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9879f4d8744147a766e09fab77f5252108ca243f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3700693
+project-id = 417175

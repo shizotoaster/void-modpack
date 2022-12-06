@@ -1,0 +1,13 @@
+name = "Mekanism Atmospheric Addon"
+filename = "MekanismAtmosphericAddon.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c9de177a3bc03b56c201f624779f2f97c1b1e127"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3289834
+project-id = 475394

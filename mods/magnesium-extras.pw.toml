@@ -1,0 +1,8 @@
+name = "Magnesium/Rubidium Extras i18n Fork"
+filename = "magnesium_extras-mc1.16.5_v1.3.5-Multi.jar"
+side = "client"
+
+[download]
+url = "https://github.com/ForgeModi18n/MgRbExtras-i18n/releases/download/mc1.16-v1.3.5-Multi/magnesium_extras-mc1.16.5_v1.3.5-Multi.jar"
+hash-format = "sha256"
+hash = "9E04044296137373D26A1E76777993B27B95FBAE08CAEBF4AA41943972A5F923"

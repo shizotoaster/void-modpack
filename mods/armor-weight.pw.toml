@@ -1,0 +1,13 @@
+name = "Armor Weight"
+filename = "armor-weight-1.16.5-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5f62e56d356f4b5c283c0df52da271215dce607a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3694713
+project-id = 594210

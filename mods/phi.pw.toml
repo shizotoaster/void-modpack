@@ -1,0 +1,13 @@
+name = "Phi (Psi addon)"
+filename = "Phi-1.16-2.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8c8ddc65e21cbe3ac2f4b7edc25184ce5aeb223a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3817037
+project-id = 476728

@@ -1,0 +1,13 @@
+name = "♬ Aquamirae Mod EXTRA Music ♬"
+filename = "Aquamirae Mod Music.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cb207d3b7c226887d4a08b309b49fb0643550cc3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3960297
+project-id = 542360

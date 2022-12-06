@@ -1,0 +1,13 @@
+name = "Fallen Doors"
+filename = "PKC-FD-1.2-1.16.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3cf9529cdeafdbeb073098f06b4c0b85473a1eab"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3554975
+project-id = 525466

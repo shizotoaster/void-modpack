@@ -1,0 +1,13 @@
+name = "void?@sodium"
+author = "qIMIXERIp"
+version = "2.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "cc3919dd209b7404073b8e092a56fcd8c57347ddb0a0c601b9316f867250f682"
+
+[versions]
+forge = "36.2.39"
+minecraft = "1.16.5"

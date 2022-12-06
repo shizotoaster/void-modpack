@@ -1,0 +1,13 @@
+name = "I Need Mangrove Swamp"
+filename = "mangrove_swamp_1.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c193b9dd433e14e49d9100b244f1883c123e2349"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4090733
+project-id = 657043
