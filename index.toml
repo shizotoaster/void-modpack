@@ -286,11 +286,6 @@ hash = "5d242849b481d8e19ba20dc1cbb56c8d91ca3f3466a7e77c9f7a52c6f96f09b2"
 metafile = true
 
 [[files]]
-file = "mods/halloween-nighmare.pw.toml"
-hash = "87f5bd082c6f9c53d14d4349dac310add50277186049efe8f8f0611c59475104"
-metafile = true
-
-[[files]]
 file = "mods/honey-expansion-add-on-for-farmers-delight.pw.toml"
 hash = "db0130a3c46fa1cd64884797f24cf027903f0192db1089be817d5d9b9dd4cda5"
 metafile = true
