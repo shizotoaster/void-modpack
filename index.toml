@@ -356,11 +356,6 @@ hash = "e5c867cc430ae751a6f6327717ab5c3611adc5c09430cf03c4482608d577b35f"
 metafile = true
 
 [[files]]
-file = "mods/mango-legacy-mod.pw.toml"
-hash = "734f224efba10e23be39ee29c790c970efcde25e6b92a2a1ffc834ec485dec44"
-metafile = true
-
-[[files]]
 file = "mods/mekanism-additions.pw.toml"
 hash = "3ebaafb0fbce322bb12afa25879a6d475c02bed584ac1498483d17a1254f608b"
 metafile = true
