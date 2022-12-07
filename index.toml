@@ -296,6 +296,11 @@ hash = "f1341e0d2163db88667deccdece4f4a89b462c217baf0b8204db0957eb84b1bc"
 metafile = true
 
 [[files]]
+file = "mods/jade.pw.toml"
+hash = "c7ec1444792e09cced117d3ad2d27f2c4d952dd1989b3110ef98c4970f228ab4"
+metafile = true
+
+[[files]]
 file = "mods/jei-enchantment-info.pw.toml"
 hash = "0e403e1c8ef7c72a653d43506f94899d229db0e9de716d5af719eeef93800320"
 metafile = true
@@ -408,6 +413,11 @@ metafile = true
 [[files]]
 file = "mods/nethers-delight.pw.toml"
 hash = "9d1a3244c116d5c96132370f81a6713051eeefc2d94610829969d34ad26082e4"
+metafile = true
+
+[[files]]
+file = "mods/nochatlag.pw.toml"
+hash = "6143243dbaa615620f0817cbf9c39c249d08330563d7558e65da32fa32699bbf"
 metafile = true
 
 [[files]]
@@ -638,11 +648,6 @@ metafile = true
 [[files]]
 file = "mods/waila-harvestability.pw.toml"
 hash = "27bad23ab983a7b0d7de6bbb7cc5c4aec4e63b9af089322050523e6625670cb4"
-metafile = true
-
-[[files]]
-file = "mods/wthit-forge.pw.toml"
-hash = "be08094e1dada21558ecc65c4aef78ab629e8cd0c790a413f82efdbefabc84ae"
 metafile = true
 
 [[files]]
