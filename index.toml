@@ -491,11 +491,6 @@ hash = "c1aef66ee952e5dc7df0dcd95636d1831df40373a2c0610bbd294a128bb1de2f"
 metafile = true
 
 [[files]]
-file = "mods/playerex.pw.toml"
-hash = "cb0053cfa668792972658d55cb6747561a0294b55f0dbca612a7ec80fe80a732"
-metafile = true
-
-[[files]]
 file = "mods/powah.pw.toml"
 hash = "62b56c623c0d2db0be5a89ba80f8d143b49770c585a9dc32b499f4c9497846ef"
 metafile = true
