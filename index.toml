@@ -31,6 +31,11 @@ hash = "ff95e31bd870e1c3aab8a33d7303df2e9f4da9ec0f20c1592ab11e3068a75829"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "26fca9fdd48a32e506d077fefb9baf09908cae3a3072f5cf4726e9c8f13fde31"
+metafile = true
+
+[[files]]
 file = "mods/armor-weight.pw.toml"
 hash = "fac74992c9401af0f4fee892e64c6df56b967d7063c22d0d7560bbacfb63277d"
 metafile = true
@@ -116,6 +121,11 @@ hash = "9f5d533adca817ba6ac9ad937ec4890cfdc3aaa45c37f7c1cb61aa5c1ab2594d"
 metafile = true
 
 [[files]]
+file = "mods/bygone-nether.pw.toml"
+hash = "58efdde5385278d2e14cfa322eb0937af97759b2beba78ff6892682ecabc2f6c"
+metafile = true
+
+[[files]]
 file = "mods/catalogue.pw.toml"
 hash = "c672f28f4e820ba7b1cb81d8ac7583c5c7f9fcf5118c39884405ed84ad3518b7"
 metafile = true
@@ -198,6 +208,11 @@ metafile = true
 [[files]]
 file = "mods/custom-player-models.pw.toml"
 hash = "8027db02c8017ea6b4e5fafd397689188736b5cf1ce877d3900455d313207e4b"
+metafile = true
+
+[[files]]
+file = "mods/depth.pw.toml"
+hash = "a6e088641fe925972f87d24558c609851833f94b104d5d5e6d31220e430e2f82"
 metafile = true
 
 [[files]]
@@ -293,6 +308,11 @@ metafile = true
 [[files]]
 file = "mods/i-need-mangrove-swamp.pw.toml"
 hash = "f1341e0d2163db88667deccdece4f4a89b462c217baf0b8204db0957eb84b1bc"
+metafile = true
+
+[[files]]
+file = "mods/infernal-expansion.pw.toml"
+hash = "fea840e9de2508ddceb539c20fceb1957ebc7d0df3a93e736d47919383e509cd"
 metafile = true
 
 [[files]]
@@ -416,8 +436,18 @@ hash = "9d1a3244c116d5c96132370f81a6713051eeefc2d94610829969d34ad26082e4"
 metafile = true
 
 [[files]]
+file = "mods/nethers-exoticism.pw.toml"
+hash = "ea33ab175aff6a2d4bf587bff507dab99d2235c38e41b47abcd67109881ced8d"
+metafile = true
+
+[[files]]
 file = "mods/nochatlag.pw.toml"
 hash = "6143243dbaa615620f0817cbf9c39c249d08330563d7558e65da32fa32699bbf"
+metafile = true
+
+[[files]]
+file = "mods/nourished-nether.pw.toml"
+hash = "d87bcd10435fa561e367cd3ea6e521fb7d3ded62ccb0fa33e04c0df32f1b69d9"
 metafile = true
 
 [[files]]
@@ -448,6 +478,11 @@ metafile = true
 [[files]]
 file = "mods/oh-the-biomes-youll-go.pw.toml"
 hash = "13c7d44940110bb9d8149f3e2403356e1fe33c1eece4a197bcb5835cdb1f3de4"
+metafile = true
+
+[[files]]
+file = "mods/outvoted.pw.toml"
+hash = "49288b88c45c1e2864fa4b8f09f70b08e41baecec19f1c5d22d3d17e7337d8f5"
 metafile = true
 
 [[files]]
@@ -561,6 +596,11 @@ hash = "492e598215aca30892cd868d074eaf5d8aa01eb6f459d159391fbc4a64e2073c"
 metafile = true
 
 [[files]]
+file = "mods/seeds.pw.toml"
+hash = "966b5dc49dc9cff4436239c2d97c538d8cdbe7695ddd2299108c519f56248697"
+metafile = true
+
+[[files]]
 file = "mods/selene.pw.toml"
 hash = "b4f9abd219e3affcbfd6d592967ce289c5461c404b0c27a5a97c068205ed4c9b"
 metafile = true
@@ -573,6 +613,11 @@ metafile = true
 [[files]]
 file = "mods/smooth-boot-forge.pw.toml"
 hash = "8fc85728b1093f7c7ee32cfcc91d185c6d856d374277be6420be562e6b4b99a3"
+metafile = true
+
+[[files]]
+file = "mods/stalwart-dungeons.pw.toml"
+hash = "61f06197bb91e362998a66912ae4b8975c10b9ea9909e9d912d588641b1da11b"
 metafile = true
 
 [[files]]
@@ -603,6 +648,11 @@ metafile = true
 [[files]]
 file = "mods/textrues-rubidium-options.pw.toml"
 hash = "8ad272a4d174d587085181abef88827ab421e4d3a8b2117ad04f55d9433b76d1"
+metafile = true
+
+[[files]]
+file = "mods/the-outer-end.pw.toml"
+hash = "5508b22728311fe31a9ebaf367f4ef311c4b086eed3b969ebdb93943be1ba9b2"
 metafile = true
 
 [[files]]
