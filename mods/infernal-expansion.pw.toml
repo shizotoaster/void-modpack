@@ -1,13 +1,13 @@
 name = "Infernal Expansion"
-filename = "infernal-expansion-1.16.5-2.5.0.jar"
+filename = "infernal-expansion-2.3.2.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/ZrpxHZN4/versions/2.3.2/infernal-expansion-2.3.2.jar"
 hash-format = "sha1"
-hash = "a2032508534c84511ed4759eabb9b27378a992da"
-mode = "metadata:curseforge"
+hash = "9a65a4e24688e2cd16b7d9711ceaec4c35ae5f6e"
 
 [update]
-[update.curseforge]
-file-id = 3854047
-project-id = 395078
+[update.modrinth]
+mod-id = "ZrpxHZN4"
+version = "XCgZ3IYr"

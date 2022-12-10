@@ -1,13 +1,13 @@
-name = "Depth : Hidden World"
+name = "Depth"
 filename = "depth-1.0.2-1.16.5.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/DLNr6L6L/versions/1.0.2/depth-1.0.2-1.16.5.jar"
 hash-format = "sha1"
 hash = "495ec24b479343097cc8a97bf46f30c8722e205b"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 3749404
-project-id = 607182
+[update.modrinth]
+mod-id = "DLNr6L6L"
+version = "IB5xrFMP"

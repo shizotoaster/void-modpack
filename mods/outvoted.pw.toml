@@ -1,13 +1,13 @@
 name = "Outvoted"
-filename = "outvoted-2.0.0-alpha.13.1.jar"
+filename = "outvoted-2.0.0-alpha.11-forge.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/klAfKAj3/versions/2.0.0-alpha.11-forge/outvoted-2.0.0-alpha.11-forge.jar"
 hash-format = "sha1"
-hash = "c9193f3d8006fd19cb48c307ab2b9dda2e04173f"
-mode = "metadata:curseforge"
+hash = "24263d3a7ef16ae88294e08c4e9bf34ebfe36115"
 
 [update]
-[update.curseforge]
-file-id = 3552993
-project-id = 415057
+[update.modrinth]
+mod-id = "klAfKAj3"
+version = "igUDWJWd"
