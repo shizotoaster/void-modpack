@@ -1,0 +1,13 @@
+name = "Outvoted"
+filename = "outvoted-2.0.0-alpha.13.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c9193f3d8006fd19cb48c307ab2b9dda2e04173f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3552993
+project-id = 415057

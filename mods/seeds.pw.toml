@@ -1,0 +1,13 @@
+name = "Seeds"
+filename = "seeds-1.16.5-1.1.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f9342a97dd4bc63036ba8ef8dc9f08b68289b8fb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4082858
+project-id = 601515

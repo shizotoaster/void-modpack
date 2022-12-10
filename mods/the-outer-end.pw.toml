@@ -1,0 +1,13 @@
+name = "The Outer End"
+filename = "OuterEnd-0.2.14.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/X8s97ySO/versions/oUS1BNVk/OuterEnd-0.2.14.jar"
+hash-format = "sha1"
+hash = "d08018c812bdc6299fb200a8af7159704431c1ef"
+
+[update]
+[update.modrinth]
+mod-id = "X8s97ySO"
+version = "oUS1BNVk"

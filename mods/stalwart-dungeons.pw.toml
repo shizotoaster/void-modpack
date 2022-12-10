@@ -1,0 +1,13 @@
+name = "Stalwart Dungeons"
+filename = "stalwart-dungeons-1.16.5-1.1.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c3ce008a2553668df996d1dde8fcfdc314a3f798"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3495397
+project-id = 474817

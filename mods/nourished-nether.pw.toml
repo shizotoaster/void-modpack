@@ -1,0 +1,13 @@
+name = "Nourished Nether (Forge)"
+filename = "NourishedNetherV8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ntLlgck5/versions/Gtx8XBUF/NourishedNetherV8.jar"
+hash-format = "sha1"
+hash = "197e6e85878745492c0a7a5a4a4e1740a904ffa3"
+
+[update]
+[update.modrinth]
+mod-id = "ntLlgck5"
+version = "Gtx8XBUF"
