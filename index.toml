@@ -481,11 +481,6 @@ hash = "13c7d44940110bb9d8149f3e2403356e1fe33c1eece4a197bcb5835cdb1f3de4"
 metafile = true
 
 [[files]]
-file = "mods/outvoted.pw.toml"
-hash = "509732bbaaad131c729e9ace8eab7a9bb0227b637925590153be726bc68de147"
-metafile = true
-
-[[files]]
 file = "mods/pams-harvestcraft-2-crops.pw.toml"
 hash = "04be4a4af38985796fe6730445ea44c6a9342755990be2f250f593816303a16f"
 metafile = true
