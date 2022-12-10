@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "26fca9fdd48a32e506d077fefb9baf09908cae3a3072f5cf4726e9c8f13fde31"
+hash = "84b5c84237755a6fb044c7897983b5af715d80e7687ad9da0adf3f84e014ce30"
 metafile = true
 
 [[files]]
@@ -212,7 +212,7 @@ metafile = true
 
 [[files]]
 file = "mods/depth.pw.toml"
-hash = "a6e088641fe925972f87d24558c609851833f94b104d5d5e6d31220e430e2f82"
+hash = "c9cffad6b11af6542925747641dc96daee5529d9f2716c69349eae0173fbee34"
 metafile = true
 
 [[files]]
@@ -312,7 +312,7 @@ metafile = true
 
 [[files]]
 file = "mods/infernal-expansion.pw.toml"
-hash = "fea840e9de2508ddceb539c20fceb1957ebc7d0df3a93e736d47919383e509cd"
+hash = "8ead585fcc61540683b6cdcaa0802519a35f1e3d9199f1867af593049b31258a"
 metafile = true
 
 [[files]]
@@ -437,7 +437,7 @@ metafile = true
 
 [[files]]
 file = "mods/nethers-exoticism.pw.toml"
-hash = "ea33ab175aff6a2d4bf587bff507dab99d2235c38e41b47abcd67109881ced8d"
+hash = "7adae4d3a6f804f6288263b7a31c65b3ae73a993228bd78bac21e3a1e8716591"
 metafile = true
 
 [[files]]
@@ -482,7 +482,7 @@ metafile = true
 
 [[files]]
 file = "mods/outvoted.pw.toml"
-hash = "49288b88c45c1e2864fa4b8f09f70b08e41baecec19f1c5d22d3d17e7337d8f5"
+hash = "509732bbaaad131c729e9ace8eab7a9bb0227b637925590153be726bc68de147"
 metafile = true
 
 [[files]]
@@ -597,7 +597,7 @@ metafile = true
 
 [[files]]
 file = "mods/seeds.pw.toml"
-hash = "966b5dc49dc9cff4436239c2d97c538d8cdbe7695ddd2299108c519f56248697"
+hash = "90ee0e0120192f2198ac34d450d8de87eee2d423b593406703ce9d8710158c6a"
 metafile = true
 
 [[files]]
@@ -617,7 +617,7 @@ metafile = true
 
 [[files]]
 file = "mods/stalwart-dungeons.pw.toml"
-hash = "61f06197bb91e362998a66912ae4b8975c10b9ea9909e9d912d588641b1da11b"
+hash = "4b27ccef98feb44d9babc9432bc23bf94d2918b9a78e2e98411c5ecc0ed175dd"
 metafile = true
 
 [[files]]
