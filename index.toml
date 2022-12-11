@@ -646,11 +646,6 @@ hash = "8ad272a4d174d587085181abef88827ab421e4d3a8b2117ad04f55d9433b76d1"
 metafile = true
 
 [[files]]
-file = "mods/the-outer-end.pw.toml"
-hash = "5508b22728311fe31a9ebaf367f4ef311c4b086eed3b969ebdb93943be1ba9b2"
-metafile = true
-
-[[files]]
 file = "mods/the-undefeatables.pw.toml"
 hash = "e2e829b6ce346e71664bfa420d64454a2a0d3a7ed6ae3d4de8034f509f626e23"
 metafile = true
